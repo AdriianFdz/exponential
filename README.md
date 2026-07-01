@@ -22,9 +22,7 @@ Computer Engineering graduate (University of Deusto, 8.9/10 GPA with 14 honors d
 | **H2GO** | Solo dev / researcher • Hyperledger Fabric, Go (chaincode), Kubernetes, NestJS, Next.js | Blockchain platform for green hydrogen certification. Thesis grade 9.9/10 · paper in progress for *Applied Energy* (Q1) · [DEMO](https://www.youtube.com/watch?v=1JJt3PG4fyE) · [REPO](https://github.com/AdriianFdz/h2go)|
 | **ZonaZurigorri** | Solo dev • Next.js, NestJS, FastAPI, Kong, PostgreSQL, Redis | Athlete validation engine built on complex sports eligibility rules, with OAuth 2.0 (Google/Discord) for secure, persistent shortlists. Cut a 15s validation bottleneck to 5ms (3,000x) with a dedicated FastAPI microservice + Redis caching; Kong API Gateway as a single entry point decoupling the frontend from individual services · [REPO](https://github.com/AdriianFdz/ZonaZurigorri) |
 | **RAG System (portfolio)** | Solo dev • Python, FastAPI, Qdrant, PostgreSQL, sentence-transformers | Enterprise-grade RAG system built as a portfolio piece for ML Engineering roles · In progress|
- 
-> *Tip: keep this zero-effort for reviewers—live links over videos; videos over downloads.*
- 
+  
 ### Experience (TL;DR)
  
 - **Software Engineer @ DeustoTech** – *Jan 2025 – Present, Bilbao.*
